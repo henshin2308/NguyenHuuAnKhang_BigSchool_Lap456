@@ -111,3 +111,11 @@ C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool
 C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool.Migrations.CreateTableCourse.resources
 C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool.Migrations.PopulateCategoryTable.resources
 C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool.Migrations.AddNamecolumnToApplicationUser.resources
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool.Migrations.AddAttendence.resources
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Net.Http.Formatting.dll
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Web.Http.dll
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Web.Http.WebHost.dll
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Net.Http.Formatting.xml
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Web.Http.xml
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\bin\System.Web.Http.WebHost.xml
+C:\Lap\Lap-4-5-6\AnKhang_Bigschool\AnKhang_Bigschool\obj\Debug\AnKhang_Bigschool.Migrations.AddFollowingTable.resources
