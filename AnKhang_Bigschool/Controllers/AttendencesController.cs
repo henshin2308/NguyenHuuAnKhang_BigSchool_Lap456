@@ -29,7 +29,7 @@ namespace AnKhang_Bigschool.Controllers
                 CourseId = attendanceDto.CourseId,
                 AttendeeId = userId
             };
-        _dbContext.Attendances.Add(attendance);
+            _dbContext.Attendances.Add(attendance);
             _dbContext.SaveChanges();
             return Ok();
         }

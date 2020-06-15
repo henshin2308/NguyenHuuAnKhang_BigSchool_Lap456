@@ -14,6 +14,16 @@
     padding-right: 15px;
 }
 
+.navbar-inverse{
+    background-color:#d41d50;
+    border-color: #fbf6f6;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color:white;
+}
+.navbar-inverse .navbar-brand{
+    color:white;
+}
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 
 */
@@ -34,11 +44,12 @@ textarea {
 .course > li{
     position:relative;
     margin-bottom: 30px;
+    
 }
 .course > li .date{
     text-align: center;
-    background-color: #ff0000;
-    color: #ffffff;
+    background-color: #d41d50;
+    color: white;
    width: 60px;
     border-radius: 8px;
 }
@@ -46,4 +57,11 @@ textarea {
     position: absolute;
     top: 0;
     left: 70px;
-}
+}.course>li .action{
+     display:none;
+     left:70px;
+     position:absolute;
+ }
+ .course >li:hover .action{
+     display:block;
+ }
